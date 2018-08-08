@@ -1,0 +1,30 @@
+body
+{
+  background-color: grey;
+}
+footer
+{
+  margin-top: 20px;
+}
+svg
+{
+  border-radius: 10px;
+}
+#indice{
+
+}
+#Contenedor{
+  font-family: helvetica;
+  font-size: 16px;
+
+}
+#encabezado{
+  display: block;
+  margin: 0 auto;
+}
+.ItemIndice{
+  list-style-type: upper-roman;
+}
+.enlace{
+  color: red;
+}

@@ -1,0 +1,17 @@
+body{
+  border-top: 20px;
+  border-bottom: 20px;
+  border-left: 20px;
+  border-right: 20px;
+  font-family: verdana;
+}
+.resaltado{
+  background-color: #FFFF00;
+}
+navbar{
+  padding: 10px 0px;
+}
+.titulo{
+  background-color: aliceblue;
+  padding: 10px;
+}
