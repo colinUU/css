@@ -1,17 +1,25 @@
 body{
-  border-top: 20px;
-  border-bottom: 20px;
-  border-left: 20px;
-  border-right: 20px;
+  margin: 20px;
   font-family: verdana;
 }
+
 .resaltado{
   background-color: #FFFF00;
+  color: black;
 }
-navbar{
+
+#menu-principal{
   padding: 10px 0px;
 }
-.titulo{
+
+footer{
+  border-top: solid 1px black;
+  padding-top: 10px;
+  text-align: center;
+}
+
+h1.titulo{
   background-color: aliceblue;
   padding: 10px;
+  text-align: center;
 }

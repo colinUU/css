@@ -28,3 +28,10 @@ svg
 .enlace{
   color: red;
 }
+a[href^="#"]{
+  color: red;
+}
+image[xlink:href$=".svg"]{
+  border: 1px solid black;
+  border-radius: 5px
+}
